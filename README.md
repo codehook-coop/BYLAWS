@@ -1,6 +1,12 @@
 # OPERATING AGREEMENT
 ### OF CODE HOOK COOPERATIVE, LLC
 
+## Table of Contents
+- [Article I: Purposes]()
+- [Article II: Members]()
+  - [A. Classification of Members]()
+
+
 ## ARTICLE I: PURPOSES
 This company shall be organized and shall conduct its business primarily for the mutual benefit of its members as patrons for the company. The earnings, savings, or benefits of the company shall be used for the general welfare of the members or shall be proportionately and equitably distributed to its members as patrons, based upon their patronage of the company.
 
