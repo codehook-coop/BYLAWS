@@ -4,7 +4,12 @@
 ## Table of Contents
 - [Article I: Purposes](https://github.com/codehook-coop/BYLAWS/tree/main#article-i-purposes)
 - [Article II: Members](https://github.com/codehook-coop/BYLAWS/tree/main#article-ii-members)
-  - [A. Classification of Members](https://github.com/codehook-coop/BYLAWS/tree/main#b.-membership-qualifications)
+  - [A. Classification of Members](https://github.com/codehook-coop/BYLAWS/tree/main#a-classification-of-members)
+  - [B. Membership Qualifications](https://github.com/codehook-coop/BYLAWS/tree/main#b-membership-qualifications)
+  - [C. Acceptance of Members](https://github.com/codehook-coop/BYLAWS/tree/main#c-acceptance-of-members)
+  - [D. Membership Resignation](https://github.com/codehook-coop/BYLAWS/tree/main#d-membership-resignation)
+  - [E. Removal of Members](https://github.com/codehook-coop/BYLAWS/tree/main#e-removal-of-members)
+- [Article III: Member Meetings](https://github.com/codehook-coop/BYLAWS/tree/main#article-iii-member-meetings)
 
 
 ## ARTICLE I: PURPOSES
