@@ -10,6 +10,16 @@
   - [D. Membership Resignation](https://github.com/codehook-coop/BYLAWS/tree/main#d-membership-resignation)
   - [E. Removal of Members](https://github.com/codehook-coop/BYLAWS/tree/main#e-removal-of-members)
 - [Article III: Member Meetings](https://github.com/codehook-coop/BYLAWS/tree/main#article-iii-member-meetings)
+- [Article IV: Directors](https://github.com/codehook-coop/BYLAWS#article-iv-directors)
+- [Article V: Committees](https://github.com/codehook-coop/BYLAWS#article-v-committees)
+- [Article VI: Process of Decision Making For All Meetings](https://github.com/codehook-coop/BYLAWS#article-vi-process-of-decision-making-for-all-meetings)
+- [Article VII: Officers](https://github.com/codehook-coop/BYLAWS#article-vii-officers)
+- [Article VIII: Allocations and Distributions](https://github.com/codehook-coop/BYLAWS#article-viii-allocations-and-distributions)
+- [Article IX: Checks and Contracts](https://github.com/codehook-coop/BYLAWS#article-ix-checks-and-contracts)
+- [Article X: Transfer of Memebership](https://github.com/codehook-coop/BYLAWS#article-x-transfer-of-memberships)
+- [Article XI: Records](https://github.com/codehook-coop/BYLAWS#article-xi-records)
+- [Article XII: Indemnification](https://github.com/codehook-coop/BYLAWS#article-xii-indemnification)
+- [Article XIII: Operating Agreement Amendment](https://github.com/codehook-coop/BYLAWS#article-xiii-operating-agreement-amendment)
 
 
 ## ARTICLE I: PURPOSES
