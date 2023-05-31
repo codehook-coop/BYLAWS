@@ -2,9 +2,9 @@
 ### OF CODE HOOK COOPERATIVE, LLC
 
 ## Table of Contents
-- [Article I: Purposes]()
-- [Article II: Members]()
-  - [A. Classification of Members]()
+- [Article I: Purposes](https://github.com/codehook-coop/BYLAWS/tree/main#article-i-purposes)
+- [Article II: Members](https://github.com/codehook-coop/BYLAWS/tree/main#article-ii-members)
+  - [A. Classification of Members](https://github.com/codehook-coop/BYLAWS/tree/main#b.-membership-qualifications)
 
 
 ## ARTICLE I: PURPOSES
